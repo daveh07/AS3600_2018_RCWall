@@ -1,4 +1,4 @@
-from modules import design_calcs, inputs
+from modules import design_calcs
 from modules.design_calcs import *
 
 
