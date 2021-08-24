@@ -53,8 +53,8 @@ Please feel free to add any contributions! Further functions to be added for min
 <li> Exposure Classification (str): 1
 
 #### Design Loads:
-Axial Design Load, N* (kN/m) = 1850
-Shear Force Design Load, V* (kN/m) = 550
+<li>Axial Design Load, N* (kN/m) = 1850</li>
+<li>Shear Force Design Load, V* (kN/m) = 550</li>
 
 #### Results:
 <li> Axial Capicity = 3054.48kN/m  
