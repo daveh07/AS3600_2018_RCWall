@@ -1,8 +1,13 @@
+# ---------------------------------------- RC WALL - MAIN.py --------------------------------------------#
+# Calculates the Axial and In-Plane Shear Capacity of R.C wall in accordance with AS3600:2018, Section 11
+# For walls subject to in-plane shear forces only.
+
+# Import packages & modules
 from modules import design_calcs
 from modules.design_calcs import *
 
 
-
+# ---------------------- Create instances & Print Axial & Shear Outputs -------------------------------#
 AxialCheck = design_calcs.WallAxialCapacity()
 ax_check = AxialCheck.AxialCalc()
 ax_round = round(ax_check, 2)
