@@ -3,7 +3,7 @@ Axial and shear capacity calculator for walls subjected to axial and in-plane sh
 
 ### REPL - View Live CLI Output:
 Refer to link below to run the code from Repl.it CLI
-https://replit.com/@daveh87/MoCalculator?embed=1#main.py
+https://replit.com/@daveh87/AS3600RC-Wall?embed=1main.py
 
 ### Introduction
 I am a Structural Engineer from Sydney Australia, i've created a main.py python script to calculate the axial and in-plane shear forces for reinforced concrete walls to Australian Standards  
@@ -24,10 +24,11 @@ Please feel free to add any contributions! Further functions to be added for min
 ### What I Learned
 <li>Creating a command line script</li>
 <li>Using Repl.it to deploy CLI App</li>
+<li> Creating 'f' strings to create outputs for user </li>
 <li>Creating user inputs, creating classes and functions to perform calculations based on input values</li>
 
 ### Example Caluclation
-3500mm High x 4200mm long x 250mm thick R.C Wall
+3500mm High x 4200mm long x 250mm thick R.C Wall, f'c = 40MPa
 
 #### Section Properties:
 <li> Wall Height, Hw = 3500mm
