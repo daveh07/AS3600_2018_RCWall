@@ -27,7 +27,7 @@ Please feel free to add any contributions! Further functions to be added for min
 <li> Creating 'f' strings to create outputs for user </li>
 <li>Creating user inputs, creating classes and functions to perform calculations based on input values</li>
 
-### Example Caluclation
+### Example Calculation
 3500mm High x 4200mm long x 250mm thick R.C Wall, f'c = 40MPa
 
 #### Section Properties:
