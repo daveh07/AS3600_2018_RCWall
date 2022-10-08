@@ -21,12 +21,6 @@ Create a virtual environment and run main.py
 ### NOTE:
 Please feel free to add any contributions! Further functions to be added for minimum reinforcement outputs. 
 
-### What I Learned
-<li>Creating a command line script</li>
-<li>Using Repl.it to deploy CLI App</li>
-<li> Creating 'f' strings to create outputs for user </li>
-<li>Creating user inputs, creating classes and functions to perform calculations based on input values</li>
-
 ### Example Calculation
 3500mm High x 4200mm long x 250mm thick R.C Wall, f'c = 40MPa
 
